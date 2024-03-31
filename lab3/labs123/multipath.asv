@@ -1,0 +1,10 @@
+function RX_Signal_H = multipath(Tx_Signal, channel)
+
+h = zeros(size(Tx_Signal));
+
+
+
+RX_Signal_H = 
+
+end
+
